@@ -1,0 +1,169 @@
+{
+  "provincies": [
+    {
+      "id": "west-vlaanderen",
+      "naam": "West-Vlaanderen",
+      "hoofdstad": "Brugge",
+      "alternatieveNamen": ["West Vlaanderen"],
+      "coördinaten": { "breedtegraad": 51.2, "lengtegraad": 3.1 }
+    },
+    {
+      "id": "oost-vlaanderen",
+      "naam": "Oost-Vlaanderen",
+      "hoofdstad": "Gent",
+      "alternatieveNamen": ["Oost Vlaanderen"],
+      "coördinaten": { "breedtegraad": 50.9, "lengtegraad": 3.7 }
+    },
+    {
+      "id": "antwerpen",
+      "naam": "Antwerpen",
+      "hoofdstad": "Antwerpen",
+      "alternatieveNamen": [],
+      "coördinaten": { "breedtegraad": 51.2, "lengtegraad": 4.4 }
+    },
+    {
+      "id": "limburg",
+      "naam": "Limburg",
+      "hoofdstad": "Hasselt",
+      "alternatieveNamen": [],
+      "coördinaten": { "breedtegraad": 50.95, "lengtegraad": 5.3 }
+    },
+    {
+      "id": "vlaams-brabant",
+      "naam": "Vlaams-Brabant",
+      "hoofdstad": "Leuven",
+      "alternatieveNamen": ["Vlaams Brabant"],
+      "coördinaten": { "breedtegraad": 50.8, "lengtegraad": 4.7 }
+    },
+    {
+      "id": "henegouwen",
+      "naam": "Henegouwen",
+      "hoofdstad": "Bergen",
+      "alternatieveNamen": ["Hainaut"],
+      "coördinaten": { "breedtegraad": 50.5, "lengtegraad": 3.95 }
+    },
+    {
+      "id": "waals-brabant",
+      "naam": "Waals-Brabant",
+      "hoofdstad": "Waver",
+      "alternatieveNamen": ["Waals Brabant"],
+      "coördinaten": { "breedtegraad": 50.6, "lengtegraad": 4.55 }
+    },
+    {
+      "id": "namen",
+      "naam": "Namen",
+      "hoofdstad": "Namen",
+      "alternatieveNamen": ["Namur"],
+      "coördinaten": { "breedtegraad": 50.45, "lengtegraad": 4.85 }
+    },
+    {
+      "id": "luik",
+      "naam": "Luik",
+      "hoofdstad": "Luik",
+      "alternatieveNamen": ["Liège"],
+      "coördinaten": { "breedtegraad": 50.6, "lengtegraad": 5.55 }
+    },
+    {
+      "id": "luxemburg",
+      "naam": "Luxemburg",
+      "hoofdstad": "Aarlen",
+      "alternatieveNamen": ["Arlon"],
+      "coördinaten": { "breedtegraad": 49.7, "lengtegraad": 5.8 }
+    }
+  ],
+  "gewesten": [
+    {
+      "id": "vlaams-gewest",
+      "naam": "Vlaams Gewest",
+      "coördinaten": { "breedtegraad": 50.9, "lengtegraad": 4.0 }
+    },
+    {
+      "id": "waals-gewest",
+      "naam": "Waals Gewest",
+      "coördinaten": { "breedtegraad": 50.5, "lengtegraad": 4.8 }
+    },
+    {
+      "id": "brussels-hoofdstedelijk-gewest",
+      "naam": "Brussels Hoofdstedelijk Gewest",
+      "coördinaten": { "breedtegraad": 50.85, "lengtegraad": 4.35 }
+    }
+  ],
+  "rivieren": [
+    {
+      "id": "ijzer",
+      "naam": "IJzer",
+      "coördinaten": [
+        { "breedtegraad": 51.1, "lengtegraad": 2.65 },
+        { "breedtegraad": 51.0, "lengtegraad": 2.9 }
+      ]
+    },
+    {
+      "id": "schelde",
+      "naam": "Schelde",
+      "coördinaten": [
+        { "breedtegraad": 51.3, "lengtegraad": 4.3 },
+        { "breedtegraad": 51.2, "lengtegraad": 4.4 }
+      ]
+    },
+    {
+      "id": "maas",
+      "naam": "Maas",
+      "coördinaten": [
+        { "breedtegraad": 51.0, "lengtegraad": 5.8 },
+        { "breedtegraad": 50.9, "lengtegraad": 5.5 }
+      ]
+    },
+    {
+      "id": "leie",
+      "naam": "Leie",
+      "coördinaten": [
+        { "breedtegraad": 50.95, "lengtegraad": 3.3 },
+        { "breedtegraad": 51.0, "lengtegraad": 3.5 }
+      ]
+    },
+    {
+      "id": "samber",
+      "naam": "Samber",
+      "coördinaten": [
+        { "breedtegraad": 50.4, "lengtegraad": 4.8 },
+        { "breedtegraad": 50.5, "lengtegraad": 4.9 }
+      ]
+    }
+  ],
+  "havens": [
+    {
+      "id": "antwerpen-haven",
+      "naam": "Antwerpen",
+      "coördinaten": { "breedtegraad": 51.32, "lengtegraad": 4.40 }
+    },
+    {
+      "id": "zeebrugge-haven",
+      "naam": "Zeebrugge",
+      "coördinaten": { "breedtegraad": 51.35, "lengtegraad": 3.20 }
+    },
+    {
+      "id": "gent-haven",
+      "naam": "Gent",
+      "coördinaten": { "breedtegraad": 51.04, "lengtegraad": 3.72 }
+    }
+  ],
+  "autosnelwegen": [
+    { "id": "e40", "naam": "E40" },
+    { "id": "e403", "naam": "E403" },
+    { "id": "e17", "naam": "E17" },
+    { "id": "e19", "naam": "E19" },
+    { "id": "e411", "naam": "E411" },
+    { "id": "e42", "naam": "E42" },
+    { "id": "e313", "naam": "E313" },
+    { "id": "e314", "naam": "E314" }
+  ],
+  "merkpunten": [
+    {
+      "id": "signal-de-botrange",
+      "naam": "Signal de Botrange",
+      "type": "Hoogste punt",
+      "hoogte": 694,
+      "coördinaten": { "breedtegraad": 50.40, "lengtegraad": 5.91 }
+    }
+  ]
+}
