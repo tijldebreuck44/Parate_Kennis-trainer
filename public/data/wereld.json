@@ -1,0 +1,90 @@
+{
+  "oceanen": [
+    { "id": "grote-oceaan", "naam": "Grote Oceaan", "oppervlakte": 165000000, "diepteGemiddeld": 4280 },
+    { "id": "atlantische-oceaan", "naam": "Atlantische Oceaan", "oppervlakte": 106000000, "diepteGemiddeld": 3339 },
+    { "id": "indische-oceaan", "naam": "Indische Oceaan", "oppervlakte": 70000000, "diepteGemiddeld": 3963 },
+    { "id": "noordelijke-ijszee", "naam": "Noordelijke IJszee", "oppervlakte": 15000000, "diepteGemiddeld": 1205 }
+  ],
+  "continenten": [
+    {
+      "id": "eurazië",
+      "naam": "Eurazië",
+      "oppervlakte": 55000000,
+      "bevolking": 4600000000,
+      "coördinaten": { "breedtegraad": 54.5, "lengtegraad": 98.0 }
+    },
+    {
+      "id": "afrika",
+      "naam": "Afrika",
+      "oppervlakte": 30000000,
+      "bevolking": 1300000000,
+      "coördinaten": { "breedtegraad": 0.0, "lengtegraad": 20.0 }
+    },
+    {
+      "id": "noord-amerika",
+      "naam": "Noord-Amerika",
+      "oppervlakte": 24500000,
+      "bevolking": 580000000,
+      "coördinaten": { "breedtegraad": 45.0, "lengtegraad": -100.0 }
+    },
+    {
+      "id": "zuid-amerika",
+      "naam": "Zuid-Amerika",
+      "oppervlakte": 17800000,
+      "bevolking": 430000000,
+      "coördinaten": { "breedtegraad": -8.0, "lengtegraad": -55.0 }
+    },
+    {
+      "id": "antarctica",
+      "naam": "Antarctica",
+      "oppervlakte": 14200000,
+      "bevolking": 5000,
+      "coördinaten": { "breedtegraad": -82.0, "lengtegraad": 0.0 }
+    },
+    {
+      "id": "australië",
+      "naam": "Australië",
+      "oppervlakte": 8600000,
+      "bevolking": 26000000,
+      "coördinaten": { "breedtegraad": -25.0, "lengtegraad": 133.0 }
+    }
+  ],
+  "werelddelen": [
+    { "id": "europa", "naam": "Europa", "coördinaten": { "breedtegraad": 50.0, "lengtegraad": 15.0 } },
+    { "id": "azië", "naam": "Azië", "coördinaten": { "breedtegraad": 30.0, "lengtegraad": 100.0 } },
+    { "id": "afrika", "naam": "Afrika", "coördinaten": { "breedtegraad": 0.0, "lengtegraad": 20.0 } },
+    { "id": "amerika", "naam": "Amerika", "coördinaten": { "breedtegraad": 0.0, "lengtegraad": -80.0 } },
+    { "id": "oceanië", "naam": "Oceanië", "coördinaten": { "breedtegraad": -15.0, "lengtegraad": 135.0 } },
+    { "id": "antarctica", "naam": "Antarctica", "coördinaten": { "breedtegraad": -82.0, "lengtegraad": 0.0 } }
+  ],
+  "breedtecirkels": [
+    { "id": "evenaar", "naam": "Evenaar", "breedtegraad": 0 },
+    { "id": "kreeftskeerkring", "naam": "Kreeftskeerkring", "breedtegraad": 23.5 },
+    { "id": "steenbokskeerkring", "naam": "Steenbokskeerkring", "breedtegraad": -23.5 },
+    { "id": "noordpoolcirkel", "naam": "Noordpoolcirkel", "breedtegraad": 66.5 },
+    { "id": "zuidpoolcirkel", "naam": "Zuidpoolcirkel", "breedtegraad": -66.5 }
+  ],
+  "rivieren": [
+    { "id": "nijl", "naam": "Nijl", "continent": "Afrika", "lengteKm": 6650, "landen": ["Egypte", "Soedan", "Oeganda"] },
+    { "id": "amazone", "naam": "Amazone", "continent": "Zuid-Amerika", "lengteKm": 6992, "landen": ["Brazilië", "Peru", "Colombia"] },
+    { "id": "mississippi", "naam": "Mississippi", "continent": "Noord-Amerika", "lengteKm": 3710, "landen": ["VSA"] },
+    { "id": "paraná", "naam": "Paraná", "continent": "Zuid-Amerika", "lengteKm": 4880, "landen": ["Brazilië", "Argentinië", "Paraguay"] },
+    { "id": "niger", "naam": "Niger", "continent": "Afrika", "lengteKm": 4184, "landen": ["Mali", "Guinee", "Benin", "Niger", "Nigeria"] },
+    { "id": "kongo", "naam": "Kongo", "continent": "Afrika", "lengteKm": 4700, "landen": ["Democratische Republiek Congo", "Republiek Congo"] },
+    { "id": "ob", "naam": "Ob", "continent": "Azië", "lengteKm": 3650, "landen": ["Rusland"] },
+    { "id": "jenisej", "naam": "Jenisej", "continent": "Azië", "lengteKm": 4130, "landen": ["Rusland"] },
+    { "id": "lena", "naam": "Lena", "continent": "Azië", "lengteKm": 4400, "landen": ["Rusland"] },
+    { "id": "huanghe", "naam": "Huanghe", "continent": "Azië", "lengteKm": 5464, "landen": ["China"] },
+    { "id": "jangtsekiang", "naam": "Jangtsekiang", "continent": "Azië", "lengteKm": 6300, "landen": ["China"] },
+    { "id": "ganges", "naam": "Ganges", "continent": "Azië", "lengteKm": 2506, "landen": ["India", "Bangladesh", "Nepal"] },
+    { "id": "darling", "naam": "Darling", "continent": "Australië", "lengteKm": 2844, "landen": ["Australië"] }
+  ],
+  "gebergten": [
+    { "id": "himalaya", "naam": "Himalaya", "continent": "Azië", "hoogte": 8849, "landen": ["Nepal", "China", "India", "Bhutan"] },
+    { "id": "andes", "naam": "Andes", "continent": "Zuid-Amerika", "hoogte": 6961, "landen": ["Colombi", "Ecuador", "Peru", "Bolivia", "Chili", "Argentinië"] },
+    { "id": "rocky-mountains", "naam": "Rocky Mountains", "continent": "Noord-Amerika", "hoogte": 4401, "landen": ["VSA", "Canada"] },
+    { "id": "atlas", "naam": "Atlas", "continent": "Afrika", "hoogte": 4165, "landen": ["Marokko", "Algerije", "Tunesië"] },
+    { "id": "kunlun-shan", "naam": "Kunlun Shan", "continent": "Azië", "hoogte": 7649, "landen": ["China"] },
+    { "id": "oeral", "naam": "Oeral", "continent": "Europa/Azië", "hoogte": 1895, "landen": ["Rusland"] }
+  ]
+}
