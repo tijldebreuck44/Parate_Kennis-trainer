@@ -1,0 +1,16 @@
+export const ACHIEVEMENTS = [
+  { id: 'first-quiz', title: 'Eerste Stap', description: 'Voltooi je eerste quiz' },
+  { id: 'hundred-questions', title: '100 Vragen', description: 'Beantwoord 100 vragen' },
+  { id: 'perfect-score', title: 'Perfecte Score', description: 'Haal 100% op een quiz' },
+  { id: 'belgium-master', title: 'België Meester', description: 'Beheers alle België oefeningen' },
+  { id: 'europe-master', title: 'Europa Meester', description: 'Beheers alle Europa oefeningen' },
+  { id: 'world-expert', title: 'Wereld Expert', description: 'Beheers alle wereldoefeningen' },
+  { id: 'streak-7', title: '7 Dagen Streak', description: 'Oefen 7 dagen achter elkaar' },
+  { id: 'streak-30', title: '30 Dagen Streak', description: 'Oefen 30 dagen achter elkaar' },
+  { id: 'speedrun', title: 'Snelrunner', description: 'Voltooi 10 vragen in onder 30 seconden' },
+  { id: 'collector', title: 'Verzamelaar', description: 'Verzamel alle achievements' },
+  { id: 'no-mistakes', title: 'Foutloos', description: 'Voltooi een quiz met nul fouten' },
+  { id: 'comeback', title: 'Terugkeer', description: 'Voltooi een quiz na 7 dagen niet gespeeld' },
+  { id: 'map-master', title: 'Kaart Meester', description: 'Voltooi 50 kaart oefeningen' },
+  { id: 'flashcard-master', title: 'Flashcard Meester', description: 'Voltooi 100 flashcards' },
+]
