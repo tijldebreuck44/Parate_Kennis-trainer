@@ -1,0 +1,162 @@
+[
+  {
+    "id": "eerste-perfecte-score",
+    "titel": "Perfect Begin",
+    "beschrijving": "Behaal je eerste perfecte score",
+    "icoon": "⭐",
+    "categorie": "Prestaties",
+    "voorwaarde": "score === 100"
+  },
+  {
+    "id": "honderd-vragen",
+    "titel": "Century Club",
+    "beschrijving": "Beantwoord 100 vragen correct",
+    "icoon": "💯",
+    "categorie": "Mijlpalen",
+    "voorwaarde": "totalCorrect >= 100"
+  },
+  {
+    "id": "europa-meester",
+    "titel": "Europa Meester",
+    "beschrijving": "Behaal 90% in alle Europese toetsen",
+    "icoon": "🇪🇺",
+    "categorie": "Regio",
+    "voorwaarde": "europeScore >= 90"
+  },
+  {
+    "id": "wereld-expert",
+    "titel": "Wereld Expert",
+    "beschrijving": "Behaal 90% in alle Wereld toetsen",
+    "icoon": "🌍",
+    "categorie": "Regio",
+    "voorwaarde": "worldScore >= 90"
+  },
+  {
+    "id": "belgie-specialist",
+    "titel": "België Specialist",
+    "beschrijving": "Behaal 95% in alle België toetsen",
+    "icoon": "🇧🇪",
+    "categorie": "Regio",
+    "voorwaarde": "belgiumScore >= 95"
+  },
+  {
+    "id": "snelschutter",
+    "titel": "Snelschutter",
+    "beschrijving": "Beantwoord 10 vragen in onder 1 minuut",
+    "icoon": "⚡",
+    "categorie": "Snelheid",
+    "voorwaarde": "speedChallenge"
+  },
+  {
+    "id": "streak-champion",
+    "titel": "Streak Champion",
+    "beschrijving": "Bereik een reeks van 10 juiste antwoorden",
+    "icoon": "🔥",
+    "categorie": "Reeksen",
+    "voorwaarde": "streak >= 10"
+  },
+  {
+    "id": "mega-reeks",
+    "titel": "Mega Reeks",
+    "beschrijving": "Bereik een reeks van 25 juiste antwoorden",
+    "icoon": "🌟",
+    "categorie": "Reeksen",
+    "voorwaarde": "streak >= 25"
+  },
+  {
+    "id": "vlaggenmeester",
+    "titel": "Vlaggen Meester",
+    "beschrijving": "Behaal 100% in vlaggenkenning",
+    "icoon": "🚩",
+    "categorie": "Onderwerpen",
+    "voorwaarde": "flagScore === 100"
+  },
+  {
+    "id": "hoofdstadkenner",
+    "titel": "Hoofdstad Kenner",
+    "beschrijving": "Behaal 95% in hoofdstadkenning",
+    "icoon": "🏛️",
+    "categorie": "Onderwerpen",
+    "voorwaarde": "capitalScore >= 95"
+  },
+  {
+    "id": "kaartmees",
+    "titel": "Kaart Mees",
+    "beschrijving": "Behaal 90% in alle kaart quizzen",
+    "icoon": "🗺️",
+    "categorie": "Oefenvormen",
+    "voorwaarde": "mapScore >= 90"
+  },
+  {
+    "id": "flashcard-fan",
+    "titel": "Flashcard Fan",
+    "beschrijving": "Voltooi 50 flashcard sessies",
+    "icoon": "📇",
+    "categorie": "Oefenvormen",
+    "voorwaarde": "flashcardSessions >= 50"
+  },
+  {
+    "id": "consisten-student",
+    "titel": "Consistente Student",
+    "beschrijving": "Oefen 7 dagen achter elkaar",
+    "icoon": "📅",
+    "categorie": "Discipline",
+    "voorwaarde": "consecutiveDays >= 7"
+  },
+  {
+    "id": "night-owl",
+    "titel": "Night Owl",
+    "beschrijving": "Oefen na middernacht",
+    "icoon": "🌙",
+    "categorie": "Speciaal",
+    "voorwaarde": "lateNightSession"
+  },
+  {
+    "id": "vroege-vogel",
+    "titel": "Vroege Vogel",
+    "beschrijving": "Oefen voor 6 uur 's morgens",
+    "icoon": "🌅",
+    "categorie": "Speciaal",
+    "voorwaarde": "earlyMorningSession"
+  },
+  {
+    "id": "marathon-student",
+    "titel": "Marathon Student",
+    "beschrijving": "Oefen meer dan 2 uur achter elkaar",
+    "icoon": "🏃",
+    "categorie": "Discipline",
+    "voorwaarde": "sessionDuration >= 120"
+  },
+  {
+    "id": "multitasker",
+    "titel": "Multitasker",
+    "beschrijving": "Voltooi oefeningen in alle categorieën",
+    "icoon": "🎯",
+    "categorie": "Verkenning",
+    "voorwaarde": "allCategories"
+  },
+  {
+    "id": "tienduizend-vragen",
+    "titel": "Tienduizend Vragen",
+    "beschrijving": "Beantwoord 10.000 vragen",
+    "icoon": "🔢",
+    "categorie": "Mijlpalen",
+    "voorwaarde": "totalAnswers >= 10000"
+  },
+  {
+    "id": "bijna-perfect",
+    "titel": "Bijna Perfect",
+    "beschrijving": "Behaal 99% op een toets met 50+ vragen",
+    "icoon": "😌",
+    "categorie": "Prestaties",
+    "voorwaarde": "almostPerfect"
+  },
+  {
+    "id": "comeback-kid",
+    "titel": "Comeback Kid",
+    "beschrijving": "Behaal 100% nadat je eerder 50% haalde",
+    "icoon": "💪",
+    "categorie": "Prestaties",
+    "voorwaarde": "comeback"
+  }
+]
